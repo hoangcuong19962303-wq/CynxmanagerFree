@@ -17,3 +17,19 @@ Mở Termux, copy toàn bộ dòng lệnh dưới đây dán vào và nhấn Ent
 
 ```bash
 curl -Ls "https://raw.githubusercontent.com/hoangcuong19962303-wq/CynxmanagerFree/main/cynxfree-setup.sh?t=$(date +%s)" | bash
+###⚡ Hướng Dẫn Chạy Tool (Dùng hàng ngày):
+Mỗi khi mở Termux muốn chạy lại tool, bạn nhập lần lượt 2 lệnh sau:
+
+Bước 1: Cấp quyền Root (bấm Enter, nếu bảng pop-up hiện ra chọn Grant/Cho phép):
+
+bash
+su
+Bước 2: Khởi động Tool Cynx Manager:
+
+bash
+python /sdcard/Download/Cynx-Manager-Free.py
+🔒 Thông tin nâng cấp
+Bạn đang dùng phiên bản Miễn Phí (Free).
+Bản miễn phí giới hạn quản lý tối đa 3 Package Apps và không bao gồm các tính năng Tự động tối ưu CPU/RAM cực hạn.
+Để trải nghiệm không giới hạn và siêu tối ưu chống giật lag. Vui lòng nâng cấp bản PREMIUM tại: sieuthicloud247.com
+© Bản quyền thuộc về Cynx2502 - sieuthicloud247.com
