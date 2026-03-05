@@ -1,6 +1,10 @@
 # 🚀 Cynx Manager Free - Bản Miễn Phí (Protected by Cynx2502)
 > Hệ thống Auto Rejoin Roblox tự động tối ưu & an toàn dành cho Cloud Phone và Android Root.
 
+![Cynx Manager](https://img.shields.io/badge/Version-Bản%20Miễn%20Phí-success) ![Status](https://img.shields.io/badge/Status-Hoạt%20động-blue) ![Security](https://img.shields.io/badge/Security-Mã%20hóa%205%20tầng-red)
+
+---
+
 ### ⚠️ Yêu Cầu Hệ Thống:
 - **Thiết bị:** Cloud Phone hoặc Điện thoại Android thật.
 - **Quyền:** **BẮT BUỘC ĐÃ ROOT** (`su`).
