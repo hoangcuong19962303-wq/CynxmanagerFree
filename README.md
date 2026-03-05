@@ -11,7 +11,7 @@
 ## 🌟 TÍNH NĂNG NỔI BẬT
 
 - **Giám Sát Thông Minh:** Tự động nhận diện rớt mạng tĩnh, game bị văng, crash, lag và tự động đóng/mở lại để Farm mượt mà liên tục.
-- **Tuỳ Biến App Đa Dạng:** Tự do thêm/xoá các tên Package tuỳ ý (Roblox, App Clone) - Giới hạn **3 Packages** cho bản Free.
+- **Tuỳ Biến App Đa Dạng:** Tự do thêm/xoá các tên Package tuỳ ý (Roblox, App Clone) - Giới hạn **10 Packages** cho bản Free.
 - **Script Lua Tích Hợp:** Hỗ trợ nhúng thẳng Script từ Server (có độ ổn định tuyệt đối).
 - **An Toàn 100%:** Code được bảo vệ 5 Tầng Phức Tập, tự động chống can thiệp, chống biên dịch ngược, ngăn chặn mọi rủi ro với thiết bị.
 - **Tiện Lợi:** Thao tác cài đặt và gọi ứng dụng chỉ qua **1 lệnh tắt duy nhất**.
